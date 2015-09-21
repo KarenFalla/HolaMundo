@@ -12,6 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello World!</h1><p><p>
+        <h2>Karen Falla</h2><p>
+        <h2>Juan David Contreras</h>
     </body>
 </html>
